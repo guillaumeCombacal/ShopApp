@@ -1,0 +1,9 @@
+*** Pages disponibles :
+- Main Page --> Opération en cours, si l'utilisateur démarre ces courses la page lui indique la liste
+- Items Favoris Page --> Ajout / Edition / Suppression des articles favoris
+- Shopping Management Page --> Liste article à sélectionner pour les courses
+
+*** L'utilisateur doit pouvoir ajouter des articles dans une liste de favoris et récupérer cette liste à la prochaine connexion.
+Ces articles doivent être sérialisés dans l'AsynchStorage en local sur le téléphone.
+
+*** L'utilisateur doit pouvoir créer une liste de course à partir de ces favoris
